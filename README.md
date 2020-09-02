@@ -11,7 +11,9 @@
 [vue-property-decorator](https://github.com/chuangwei/blog/issues/6)
 
 [vue-element-admin](https://github.com/chuangwei/blog/issues/7)
-
+## 开源库使用小结
+阿里DataV
+阿里qiankun
 ## js基础(自用)
 [数据类型](https://github.com/chuangwei/blog/issues/8)
 
